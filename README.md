@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Demo Live : https://harmonious-lolly-469966.netlify.app/
+Demo Live : https://harmonious-lolly-469966.netlify.app
 
 ### `npm start`
 
